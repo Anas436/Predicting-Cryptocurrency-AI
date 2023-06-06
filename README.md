@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# [🇧🇭 Bahrain CryptoCurrency Prediction using Machine Learning ]
 
 
 ## Contribution Guidelines

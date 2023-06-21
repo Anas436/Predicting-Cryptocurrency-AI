@@ -40,7 +40,7 @@
     <!-- (Insert the data regarding certain propagandas of politicians) -->
  -->
 **	**
-<!-- 
+<!--  
 (Explain how personality politics in the Philippines is propagating)
  -->
 

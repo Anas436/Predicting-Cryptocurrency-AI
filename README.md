@@ -51,4 +51,6 @@
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
-
+## Resources 
+- Omdena Github URL Link [here](https://github.com/OmdenaAI/bahrain-cryptocurrency-prediction)
+- Omdena Local Chapter Link [here](https://omdena.com/chapter-challenges/cryptocurrency-prediction-with-ai/)
